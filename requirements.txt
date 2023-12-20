@@ -5,4 +5,4 @@ Werkzeug==2.0.1
 python-dotenv
 sounddevice==0.4.2
 numpy
-PortAudio
+pyaudio
