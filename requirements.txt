@@ -4,4 +4,4 @@ Gunicorn
 Werkzeug==2.0.1
 python-dotenv
 sounddevice==0.4.2
-numpy==1.21.0
+numpy
